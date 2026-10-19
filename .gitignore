@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.sqlite3
+*.db
+.venv/
+venv/
+.env
+.DS_Store
+
+# Historical review artifacts are retained locally but excluded from submission.
+PROJECT_REVIEW_BEFORE_FIXES_RU.*
+review_render/
+
